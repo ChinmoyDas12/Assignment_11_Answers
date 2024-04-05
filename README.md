@@ -1,4 +1,4 @@
-# This is the repository that contains Assignment_11_Answers
+# This is the repository that contains Assignment_11_Questions & Answers
 So the first question is-- Make a NDVI map of your upazila by using Landsat 9 imagery for 2022
 Here is the [answer](https://code.earthengine.google.com/2d034b18324d6bd00ce3bbef7f83e06a) & the [screenshot](https://github.com/ChinmoyDas12/Assignment_11_Answers/blob/1fbf7e2e8f8b96331a75e6b67aa1212d609d470c/Assignment_11_QS_1.png)
 
